@@ -1,4 +1,3 @@
-
 DROP TABLE IF EXISTS Survey_Responses;
 DROP TABLE IF EXISTS Surveys;
 DROP TABLE IF EXISTS Students;
