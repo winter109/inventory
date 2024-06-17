@@ -1,4 +1,4 @@
-[13:45, 17/06/2024] Shilpi Goyal: -- Drop tables if they exist (for testing purposes)
+
 DROP TABLE IF EXISTS Survey_Responses;
 DROP TABLE IF EXISTS Surveys;
 DROP TABLE IF EXISTS Students;
